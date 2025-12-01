@@ -55,9 +55,11 @@ I am a final-year **B.E. in Artificial Intelligence & Data Science** student at 
 
 <br>
 
-### 🏆 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Rohiw08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rohiw08&theme=tokyonight&hide_border=false" />
+</p>
+
 
 ### 🏆 Trophies
 <div align="center">
