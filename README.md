@@ -54,32 +54,6 @@ I am a final-year **B.E. in Artificial Intelligence & Data Science** student at 
 
 <br>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rohiw08&theme=tokyonight&hide_border=false" />
-</p>
-
-
-### 🏆 Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rohiw08&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-  </a>
-</div>
-
-<br>
-
-### 💻 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Anti-Social Media Platform** | A distributed microservices architecture handling **10k+ concurrent connections**. Features real-time chat (<80ms latency) and video ingestion using ffmpeg. | Node.js, Kafka, Redis, Docker, Nginx |
-| **FlowCanvas** | An **Open-Source** node-based editor library capable of handling 500+ nodes at 60fps with spatial indexing for O(1) lookups. | Flutter, Dart |
-| **Fusion Grid** | Modular crypto dashboard with a **drag-and-drop** interface, multi-chain portfolio tracking, and real-time alerts via financial APIs. | Flutter, Dart, Firebase, TypeScript |
-| **Health Analytics** | Full-stack health prediction platform with object-oriented data modeling and real-time sync. | React.js, Python (Flask), Firebase |
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
